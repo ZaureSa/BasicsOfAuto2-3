@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/kvo2yvqm2rmadc0d/branch/main?svg=true)](https://ci.appveyor.com/project/ZaureSa/basicsofauto2/branch/main)
