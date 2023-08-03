@@ -1,8 +1,8 @@
 package ru.netology.rest;
 
+import static io.restassured.RestAssured.given;
 import org.junit.Test;
 
-import static io.restassured.RestAssured.given;
 
 class MobileBankApiTestV1 {
     @Test
