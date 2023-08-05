@@ -1,6 +1,6 @@
 HELP.md
-.gradle
-build/
+../rest1/.gradle
+../rest1/build/
 
 ### STS ###
 .apt_generated
@@ -12,11 +12,11 @@ build/
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.idea
+../rest1/.idea
 *.iws
 *.iml
 *.ipr
-out/
+../rest1/out/
 
 ### NetBeans ###
 /nbproject/private/
@@ -38,6 +38,6 @@ out/
 *.rar
 
 ### Exclusions ###
-!gradle/wrapper/gradle-wrapper.jar
+!../rest1/gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
