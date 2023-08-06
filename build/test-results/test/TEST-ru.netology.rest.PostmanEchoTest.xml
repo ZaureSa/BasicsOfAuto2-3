@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.rest.PostmanEchoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-08-06T10:43:18" hostname="UNA_MSK_ADM_2" time="3.899">
+<testsuite name="ru.netology.rest.PostmanEchoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-08-06T11:08:57" hostname="UNA_MSK_ADM_2" time="3.088">
   <properties/>
-  <testcase name="shouldReturnSendData()" classname="ru.netology.rest.PostmanEchoTest" time="3.899"/>
+  <testcase name="shouldReturnSendData()" classname="ru.netology.rest.PostmanEchoTest" time="3.088"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
