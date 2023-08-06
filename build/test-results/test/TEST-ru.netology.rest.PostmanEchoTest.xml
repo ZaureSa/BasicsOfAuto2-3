@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.rest.PostmanEchoTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2023-08-05T10:19:11" hostname="UNA_MSK_ADM_2" time="5.176">
+<testsuite name="ru.netology.rest.PostmanEchoTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2023-08-06T10:36:15" hostname="UNA_MSK_ADM_2" time="3.8">
   <properties/>
-  <testcase name="shouldReturnSendData()" classname="ru.netology.rest.PostmanEchoTest" time="5.176">
-    <failure message="java.lang.AssertionError: 1 expectation failed.&#10;JSON path data doesn't match.&#10;Expected: ПРИВЕТ&#10;  Actual: HI&#10;" type="java.lang.AssertionError">java.lang.AssertionError: 1 expectation failed.
+  <testcase name="shouldReturnSendData()" classname="ru.netology.rest.PostmanEchoTest" time="3.8">
+    <failure message="java.lang.AssertionError: 1 expectation failed.&#10;JSON path data doesn't match.&#10;Expected: привет&#10;  Actual: HI&#10;" type="java.lang.AssertionError">java.lang.AssertionError: 1 expectation failed.
 JSON path data doesn't match.
-Expected: ПРИВЕТ
+Expected: привет
   Actual: HI
 
 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
